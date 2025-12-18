@@ -41,4 +41,4 @@ The main objective of this project is to:
 
   #output
   
-- Improve understanding of web page design
+<img width="678" height="492" alt="Image" src="https://github.com/user-attachments/assets/948b94bb-69a3-4def-bacf-5b6137786771" />
